@@ -1,0 +1,8 @@
+"./bootloader.obj"
+"./main.obj"
+"./timer.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"F:/Embedded/ti/tivaware/driverlib/ccs/Debug/driverlib.lib"
