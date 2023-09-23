@@ -28,7 +28,7 @@ int main(void)
     while(1)
     {
         /*check if there is an update pending*/
-        check_update(5000);
+        check_update(10000);
         if(flag_pointer[0] == 0){
             jump_to_app(APP_START_1);
         }

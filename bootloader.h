@@ -38,7 +38,7 @@
 #define APP_START_1 0x20000
 #define APP_START_2 0x22000
 #define FLAG_APP_START 0x10000
-#define CMD_UPDATE 0x05
+#define CMD_UPDATE 0x13
 
 //*****************************************************************************
 //

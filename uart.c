@@ -53,8 +53,6 @@ void init_uart(void)
     /* Enable UART0 module */
     UARTEnable((uint32_t)UART0_MODULE);
 
-    /* Disable UART0 FIFO */
-    UARTFIFODisable((uint32_t)UART0_MODULE);
 
 }
 
